@@ -30,7 +30,7 @@
         }
       };
     `;
-  let numberOfHearts = 45;
+  let numberOfHearts = 7;
   while (numberOfHearts--) {
     var heartDiv = document.createElement("div");
     heartDiv.classList.add("heart");
